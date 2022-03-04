@@ -1,2 +1,3 @@
-#[Codility](https://app.codility.com/) answers in Java
+# Codility answers in Java
+By [Codility](https://app.codility.com/)
 
